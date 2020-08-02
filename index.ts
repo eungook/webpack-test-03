@@ -1,5 +1,5 @@
 import $ = require('jquery');
-import mymodule = require('./mymodule.ts');
+import mymodule = require('./mymodule');
 
 $(function () {
   console.log('hello, world. this is index.js');
